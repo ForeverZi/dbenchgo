@@ -1,0 +1,6 @@
+drivers:
+  mysql:
+    dsn: "root:123456@tcp(127.0.0.1:23306)/"
+    enabled: true
+    max_connections: 30
+jobs:
